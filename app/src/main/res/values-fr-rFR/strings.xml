@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BBCNewsReader</string>
+    <string name="navigation_drawer_open" translatable="false">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close" translatable="false">Fermer le tiroir de navigation</string>
+    <string name="nav_header_title" translatable="false">BBCNewsReader</string>
+    <string name="nav_header_desc" translatable="false">En-tête de navigation</string>
+    <string name="action_settings" translatable="false">Aidez-moi</string>
+    <string name="menu_home" translatable="false">Accueil</string>
+    <string name="menu_gallery" translatable="false">Afficher les favoris</string>
+    <string name="menu_slideshow" translatable="false">Créer des favoris</string>
+    <string name="home_second" translatable="false">Home Second</string>
+    <string name="help_string" translatable="false">
+        1) Accueil: Option pour afficher tous les flux d\'actualités.
+             a) Appuyez sur chaque élément pour afficher les détails.
+             b) Appuyez longuement pour sélectionner un élément de liste particulier.
+         2) Afficher les favoris: afficher la liste des favoris.
+             a) Appuyez sur pour afficher les détails.
+             b) Appuyez longuement pour sélectionner et supprimer un élément.
+         3) Créer des favoris: sélectionnez les éléments de la maison. Entrez le nom et cliquez sur terminé.
+    </string>
+    <string name="nav_author_title" translatable="false">Author :Aditya Badhuria</string>
+    <string name="nav_version_title" translatable="false">Version: 1.1</string>
+    <string name="language" translatable="false">Changer de langue</string>
+</resources>
